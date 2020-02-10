@@ -1,0 +1,6 @@
+Smite 1 1 1.2 n n
+DivineFlame 2 2 1.2 b f
+DivineSpark 2 2 1.2 s l
+DivineDrop 3 2 1.2 w w
+DivineIcicle 4 2 1.2 f i
+HolyStrike 7 3 2 n n

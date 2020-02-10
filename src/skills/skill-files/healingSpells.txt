@@ -1,0 +1,4 @@
+Heal 1 2 1.5
+Cure 5 3 3
+Antidote 10 2 3.5
+CureWounds 15 5 9.99
